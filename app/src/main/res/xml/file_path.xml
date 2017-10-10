@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- name(논리 구조)       = content:// 로 시작하는 uri 주소체계의 prefix 가 된다. 예를들어 http://Camera 에서 Camera 로시작하는 뜻.-->
+    <!-- path(실제 디스크 경로) = /External Storage/CameraN 가 된다 -->
+    <external-path name="Camera" path="CameraN" />
+</paths>
